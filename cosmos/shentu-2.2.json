@@ -1,6 +1,6 @@
 {
-  "rpc": "https://shenturpc.noopsbycertik.com",
-  "rest": "https://rest.noopsbycertik.com",
+  "rpc": "https://rpc.shentu.org",
+  "rest": "https://rest.shentu.org",
   "nodeProvider": {
     "name": "Shentu",
     "discord": "https://discord.com/invite/6nfAk956NH",
